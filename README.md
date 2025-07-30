@@ -1,5 +1,3 @@
-# EV-Data-Visualization
-
 # ⚡ Electric Vehicle Data Visualization
 
 This project explores and visualizes Electric Vehicle (EV) data to uncover insights into usage trends, adoption patterns, and other meaningful metrics. It includes interactive and static plots that help understand the data in a deeper and more intuitive way.
